@@ -42,4 +42,4 @@ Bu Gizlilik Politikası, zaman zaman güncellenebilir. Güncellemeler, bu sayfad
 ### 8. İletişim
 Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
 
-- E-posta: [E-posta Adresi]
+- E-posta: birfiratsadece@gmail.com
