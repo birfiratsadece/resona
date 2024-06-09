@@ -1,4 +1,4 @@
-### Hizmet Şartları
+# Hizmet Şartları
 **1. Genel**
 Bu Hizmet Şartları, [Bot Adı] ("bot", "biz", "bizim") kullanımı için geçerlidir. Botumuzu kullanarak bu şartları kabul etmiş olursunuz. Bu şartları kabul etmiyorsanız botumuzu kullanmayı bırakmalısınız.
 
