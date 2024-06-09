@@ -1,6 +1,6 @@
 # Hizmet Şartları
 **1. Genel**
-Bu Hizmet Şartları, [Bot Adı] ("bot", "biz", "bizim") kullanımı için geçerlidir. Botumuzu kullanarak bu şartları kabul etmiş olursunuz. Bu şartları kabul etmiyorsanız botumuzu kullanmayı bırakmalısınız.
+Bu Hizmet Şartları, Resona Bot ("bot", "biz", "bizim") kullanımı için geçerlidir. Botumuzu kullanarak bu şartları kabul etmiş olursunuz. Bu şartları kabul etmiyorsanız botumuzu kullanmayı bırakmalısınız.
 
 ### 2. Kullanım Koşulları
 **2.1 Uygunluk**
@@ -36,4 +36,4 @@ Bu Hizmet Şartları, zaman zaman güncellenebilir. Güncellemeler, bu sayfada y
 ### 6. İletişim
 Bu Hizmet Şartları hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
 
-- E-posta: [E-posta Adresi]
+- E-posta: birfiratsadece@gmail.com
