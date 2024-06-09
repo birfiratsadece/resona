@@ -9,16 +9,16 @@ Botumuzu kullanabilmek için en az 13 yaşında olmalısınız. Ayrıca, bu şar
 **2.2 Davranış Kuralları**
 Botumuzu kullanırken aşağıdaki kurallara uymalısınız:
 
-Herhangi bir yasa dışı faaliyet için botumuzu kullanmayın.
-Başkalarına zarar vermek, taciz etmek veya rahatsız etmek için botumuzu kullanmayın.
-Botun güvenliğini tehlikeye atacak veya işleyişini bozacak faaliyetlerde bulunmayın.
+- Herhangi bir yasa dışı faaliyet için botumuzu kullanmayın.
+- Başkalarına zarar vermek, taciz etmek veya rahatsız etmek için botumuzu kullanmayın.
+- Botun güvenliğini tehlikeye atacak veya işleyişini bozacak faaliyetlerde bulunmayın.
 ### 3. Veri Toplama ve Gizlilik
 **3.1 Toplanan Veriler**
 Botumuz, belirli kullanıcı verilerini toplayabilir. Bu veriler, botun işlevselliğini sağlamak ve iyileştirmek amacıyla kullanılacaktır. Toplanan veriler şunları içerebilir:
 
-Kullanıcı kimlikleri
-Mesaj içerikleri
-Kullanıcı aktiviteleri
+- Kullanıcı kimlikleri
+- Mesaj içerikleri
+- Kullanıcı aktiviteleri
 
 **3.2 Veri Kullanımı**
 Toplanan veriler, sadece botun işlevselliğini ve kullanıcı deneyimini iyileştirmek amacıyla kullanılacaktır. Veriler, üçüncü taraflarla paylaşılmayacak veya satılmayacaktır.
@@ -36,4 +36,4 @@ Bu Hizmet Şartları, zaman zaman güncellenebilir. Güncellemeler, bu sayfada y
 ### 6. İletişim
 Bu Hizmet Şartları hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
 
-E-posta: [E-posta Adresi]
+- E-posta: [E-posta Adresi]
